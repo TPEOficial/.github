@@ -8,4 +8,4 @@ Block fake users and bots that take advantage of free layers, integrate our WAF 
 
 All this and much more, coming soon at Dymo.
 
-* [Website](https://dymo.tpeoficial.com)
+* [Website](https://dymo.tpeoficial.com?ch-pg=github-profile)
